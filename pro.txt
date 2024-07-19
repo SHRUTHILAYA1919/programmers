@@ -1,0 +1,24 @@
+/*************** ReversArray *******************/
+
+
+let array = [1, 2, 3, 4];
+let reversArray = [];
+let s = 0;
+        for(let i = array.length-1; i>= 0; i--) {
+        reversArray [s++] = array[i];
+        }
+
+
+console.log(reversArray);                       // [4, 3, 2, 1] //
+
+
+/***************** SEARCH ********************/
+
+const str ='i am shruthilaya jindamwar';
+if ("str == am") {
+  console.log('true');
+} else {
+  console.log('false');                           
+
+}
+                                             // [TRUE] //
