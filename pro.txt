@@ -18,7 +18,6 @@ const str ='i am shruthilaya jindamwar';
 if ("str == am") {
   console.log('true');
 } else {
-  console.log('false');                           
-
-}
-                                             // [TRUE] //
+  console.log('false'); 
+                            
+}       
